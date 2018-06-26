@@ -1,0 +1,5 @@
+merkkimaara=20
+numerot=23456789
+pienetKirjaimet=abcdefghjkmnpqrstuvwxyz
+isotKirjaimet=ABCDEFGHJKLMNOPQRSTUVWXYZ
+erikoismerkit=!#$%&()*-<=>?@[]_
